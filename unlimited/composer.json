@@ -1,0 +1,12 @@
+{
+    "name": "ripples/unlimited",
+    "require": {
+        "nikic/php-parser": "^4.10"
+    },
+    "authors": [
+        {
+            "name": "ripples",
+            "email": "564311873@qq.com"
+        }
+    ]
+}
